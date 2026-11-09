@@ -1,6 +1,4 @@
-## 🚀 Vladimir
-
-**`Python Backend Developer`**
+## 🚀 Vladimir Nefedov | Python Backend Developer
 
 <p align="left">
   <a href="mailto:vladimir.nefedov357@gmail.com">
